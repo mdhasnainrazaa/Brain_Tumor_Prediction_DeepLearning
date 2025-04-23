@@ -4,6 +4,8 @@
 
 Brain Tumor Detection is a deep learning-based project designed to assist in the early detection of brain tumors using MRI scans. By leveraging advanced machine learning techniques, this tool aids healthcare professionals in making accurate diagnoses, improving patient outcomes.
 
+![WhatsApp Image 2025-04-24 at 03 02 06_1fc577df](https://github.com/user-attachments/assets/5869b02f-eb0e-48bf-966a-53c68e36af5d)
+
 ✨ Features
 
 ✅ MRI Image Upload – Users can upload MRI scans for analysis.✅ Deep Learning Model – Utilizes a pre-trained VGG19 model for feature extraction.✅ Prediction & Diagnosis – Detects the presence of brain tumors with high accuracy.✅ User-Friendly Web Interface – Intuitive and simple interface for seamless interaction.
